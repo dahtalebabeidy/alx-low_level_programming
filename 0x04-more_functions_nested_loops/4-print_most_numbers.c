@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
-* print_numbers - print 0 - 9
+* print_most_numbers - print 0 - 9 but no 2 and 4
 *
 * Return: always 0 (succes)
 */
 
-void print_numbers(void)
+print_most_numbers(void)
 {
 	int i;
 
