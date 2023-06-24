@@ -6,7 +6,7 @@
 * @n: input for function
 */
 
-void print_diagonal(void)
+void print_diagonal(int n)
 {
 	int postn, space;
 
