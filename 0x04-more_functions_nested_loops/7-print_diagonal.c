@@ -4,6 +4,8 @@
 * print_diagonal - prints line a diagonal
 *
 * @n: input for function
+*
+* Return: Nothing
 */
 
 void print_diagonal(int n)
